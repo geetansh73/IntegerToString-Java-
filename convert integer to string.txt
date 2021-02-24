@@ -1,0 +1,12 @@
+// to convert integer value to a string
+import java.util.*;
+class GFG {
+	public static void main (String[] args) {
+int n=100;
+String s=String.valueOf(n);
+String a=s+2;
+System.out.println(a);
+int x=n+200;
+System.out.println(x);
+	}
+}
